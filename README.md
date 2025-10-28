@@ -2,7 +2,7 @@
 
 **Computational Biologist | Bioinformatics & Machine Learning | Genomics Enthusiast**
 
-Wildhaus (SG), Switzerland  
+Zürich, Switzerland  
 📧 babih.velazquez@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/babih-velazquez/)  
 📂 [My GitHub Projects](https://github.com/RareSio)
